@@ -7,9 +7,11 @@ This analysis investigates customer churn patterns with a particular focus on co
 
 A countplot visualizes the distribution of customers by contract type (Month-to-month, 1-year, and 2-year) with respect to churn.
 Key Insight: Customers with month-to-month contracts are more likely to churn compared to those with longer-term contracts (1-year or 2-year). This suggests that shorter commitments may lead to higher churn rates, likely due to the ease of cancellation.
+
 2. Feature Exploration:
 
 The analysis covers multiple customer features such as contract type, payment method, and tenure, among others. This exploration helps in identifying key factors contributing to churn.
+
 3. Actionable Insights:
 
 Customer Retention Strategies: The insights recommend focusing on month-to-month contract holders for churn reduction strategies, such as offering discounts or incentives for longer-term contracts.
